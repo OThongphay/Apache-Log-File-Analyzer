@@ -1,6 +1,6 @@
 # Orien Thongphay
 # 10/24/2022
-# This Project analyzes the Apache log files using a counter to trach local and remote requests
+# This Project analyzes the Apache log files using a counter to track local and remote requests
 use strict;
 use warnings;
 
